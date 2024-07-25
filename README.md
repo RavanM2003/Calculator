@@ -6,7 +6,6 @@ A simple calculator application built using JavaScript.
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Clear button to reset the input.
-- Responsive design suitable for various screen sizes.
 
 ## Installation
 
